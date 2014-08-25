@@ -1,6 +1,9 @@
-#include <stdio.h>
+/* chapter 3 example 4
+ * thayumanavan , august 2014
+*/
+#include<stdio.h>
 
-int main (void)
+int main(void)
 {
   int sum;
 
